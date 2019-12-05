@@ -10,7 +10,7 @@ _You can get all of the resources for this tutorial from this GitHub repository 
 
 #### <a href="#section3"> 3. Visualize and interpret model results</a>
 
-#### <a href="#section4"> 4. Challenge: Explore ways to improve models</a>
+#### <a href="#section4"> 4. Bonus: Explore ways to improve models</a>
 
 <center><img src="{{ site.baseurl }}/Infectious_Bacteria.jpg" alt="Img"></center>
 <a href="https://blogs.biomedcentral.com/bmcseriesblog/2018/02/05/bmc-infectious-diseases-highlights-2017/" target="_blank">Taken from biomedcentral.com</a>
