@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Infectious Disease Models"
+subtitle: in R
 author: "Ryan Holzhauer"
 date: 5 December 2019
 layout: default
