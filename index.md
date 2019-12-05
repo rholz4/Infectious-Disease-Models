@@ -1,10 +1,5 @@
----
-title: "Introduction to Infectious Disease Models"
-subtitle: in R
-author: "Ryan Holzhauer"
-date: 5 December 2019
-layout: default
----
+_Created by **Ryan Holzhauer** on **December 5 2019**_
+
 _You can get all of the resources for this tutorial from this GitHub repository linked above. Click on the link to the repository, clone and download it as a zip file and then unzip it._
 
 ### Tutorial Aims
