@@ -19,13 +19,13 @@ layout: default
 <center><img src="{{ site.baseurl }}/Infectious_Bacteria.jpg" alt="Img"></center>
 <a href="https://blogs.biomedcentral.com/bmcseriesblog/2018/02/05/bmc-infectious-diseases-highlights-2017/" target="_blank">Taken from biomedcentral.com</a>
 
-In this tutorial we are going to use infectious disease models to better understand
+__In this tutorial we are going to use infectious disease models to better understand
 the dynamics behind a potential Ebola virus outbreak. Disease models are a powerful
 predictive tool that allows scientists and mathematicians to forecast the effects
 of an infection within a given population. These models predict how much of the
 population will be affected by an infection, how fast the infection will spread
-and are used to optimize potential treatment options.
----------------------------
+and are used to optimize potential treatment options.__
+
 
 _You can get all of the resources for this tutorial from <a href="https://github.com/rholz4/Infectious_Disease_Models" target="_blank">this GitHub repository</a>. Clone and download the repo as a zip file, then unzip it._
 
