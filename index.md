@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to Infectious Disease Models"
-date: 2019-12-5 11:02:30
+date: 2019-12-5
 author: Ryan Holzhauer
 meta: "Tutorials"
 ---
