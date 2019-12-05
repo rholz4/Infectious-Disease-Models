@@ -376,6 +376,7 @@ Once you have constructed the model, try and solve it.
 
 _Hint 1: When drawing the wire diagram, think about how each parameter is defined.
 What classes does each parameter affect? How do they affect each class?_
+
 _Hint 2: Think about how the simple model was constructed. Which parameters are rates
 and which are probabilities? How do we know if we are adding or subtracting expressions
 from an equation?_
