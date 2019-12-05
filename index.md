@@ -16,6 +16,7 @@ layout: default
 #### <a href="#section4"> 4. Challenge: Explore ways to improve models</a>
 
 <center><img src="{{ site.baseurl }}/Infectious_Bacteria.jpg" alt="Img"></center>
+_Taken from blogs.biomedcentral.com_
 
 In this tutorial we are going to use infectious disease models to better understand
 the dynamics behind a potential Ebola virus outbreak. Disease models are a powerful
