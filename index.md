@@ -169,7 +169,7 @@ model as a function of its three mathematical components: time, state and parame
 A great way to to start writing a model is to create a something called a _wire diagram_.
 These diagrams are helpful for visualizing how the parameters interact with each class.
 
-<center><img src="{{ site.baseurl }}/SIR_Wire_Diagram.jpg" alt="Img"></center>
+<center><img src="{{ site.baseurl }}/SIR_Wire_Diagram.png" alt="Img"></center>
 
 In a wire diagram, each arrow represents an event that occurs in the system and the
 direction in which it travels. If the arrow enters a class, then we add the corresponding
