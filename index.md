@@ -170,6 +170,7 @@ A great way to to start writing a model is to create a something called a _wire 
 These diagrams are helpful for visualizing how the parameters interact with each class.
 
 <center><img src="{{ site.baseurl }}/SIR_Wire_Diagram.png" alt="Img"></center>
+<a href="https://www.researchgate.net/figure/SIR-model-flowchart_fig8_318394911/" target="_blank">Taken from researchgate.net</a>
 
 In a wire diagram, each arrow represents an event that occurs in the system and the
 direction in which it travels. If the arrow enters a class, then we add the corresponding
