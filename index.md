@@ -1,5 +1,5 @@
 title: "Introduction to Infectious Disease Models"
-date: 5 December 2019
+date: December 5 2019
 author: Ryan Holzhauer
 layout: default
 
