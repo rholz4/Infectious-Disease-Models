@@ -23,7 +23,7 @@ population will be affected by an infection, how fast the infection will spread
 and are used to optimize potential treatment options.
 ---------------------------
 
-You can get all of the resources for this tutorial from <a href="https://github.com/ourcodingclub/CC-EAB-tut-ideas" target="_blank">this GitHub repository</a>. Clone and download the repo as a zip file, then unzip it._
+You can get all of the resources for this tutorial from <a href="https://github.com/rholz4/Infectious_Disease_Models" target="_blank">this GitHub repository</a>. Clone and download the repo as a zip file, then unzip it._
 
 <a name="section1"></a>
 
