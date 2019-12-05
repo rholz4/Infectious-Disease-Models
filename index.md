@@ -22,14 +22,11 @@ of an infection within a given population. These models predict how much of the
 population will be affected by an infection, how fast the infection will spread
 and are used to optimize potential treatment options.__
 
-
-_You can get all of the resources for this tutorial from <a href="https://github.com/rholz4/Infectious_Disease_Models" target="_blank">this GitHub repository</a>. Clone and download the repo as a zip file, then unzip it._
-
 <a name="section1"></a>
 
 ## 1. Understand the concept of an infectious disease model
 
-### What is mathematical modelling?
+### What is Mathematical Modelling?
 In simplest terms, a mathematical model is the translation of a real-life problem
 into a series of interconnected mathematical formulas. Often times in the real world
 many problems can be incredibly difficult to solve solely using logic or information
@@ -285,7 +282,8 @@ how infectious a disease is) very difficult. Parameters can be very sensitive; m
 that a small change in its value could drastically alter the behavior of the model.
 To try and mitigate this problem many recent studies try to use an machine learning
 approach to estimate parameters. More information about this idea can be found in
-__this article__
+<a href="https://www.tandfonline.com/doi/full/10.1080/17513758.2015.1039608/" target="_blank"> this article </a>
+
 
 
 <a name="section4"></a>
